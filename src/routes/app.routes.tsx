@@ -40,7 +40,7 @@ const AppRoutes: React.FC = () => (
 
         headerBackImage: () => <FeatherIcon name="chevron-left" size={24} />,
       }}
-      name="Cart"
+       name="Cart"
       component={Cart}
     />
   </App.Navigator>
